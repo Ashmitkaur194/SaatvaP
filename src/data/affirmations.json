@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "text": "I am worthy of love, peace, and happiness in every moment of my life.",
+    "category": "self-love"
+  },
+  {
+    "id": 2,
+    "text": "I choose to release what no longer serves me and embrace positive change.",
+    "category": "growth"
+  },
+  {
+    "id": 3,
+    "text": "My mind is calm, my heart is open, and I trust the journey ahead.",
+    "category": "peace"
+  },
+  {
+    "id": 4,
+    "text": "I have the strength to overcome any challenge that comes my way.",
+    "category": "strength"
+  },
+  {
+    "id": 5,
+    "text": "Every breath I take fills me with serenity and positive energy.",
+    "category": "mindfulness"
+  },
+  {
+    "id": 6,
+    "text": "I am grateful for this moment and all the blessings in my life.",
+    "category": "gratitude"
+  },
+  {
+    "id": 7,
+    "text": "My thoughts create my reality, and I choose thoughts of love and abundance.",
+    "category": "mindset"
+  },
+  {
+    "id": 8,
+    "text": "I trust my intuition and make decisions that align with my highest good.",
+    "category": "wisdom"
+  },
+  {
+    "id": 9,
+    "text": "I am connected to the infinite source of peace that resides within me.",
+    "category": "spirituality"
+  },
+  {
+    "id": 10,
+    "text": "Each day brings new opportunities for growth, joy, and self-discovery.",
+    "category": "optimism"
+  }
+]
